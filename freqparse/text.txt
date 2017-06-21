@@ -1,7 +1,4 @@
-total 4
-drwxrwxr-x. 5 admin admin   60 Jun 20 18:52 .
-drwxr-xr-x. 3 admin admin   21 Jun 19 18:33 ..
-drwxrwxr-x. 2 admin admin   24 Jun 20 18:48 freqparse
-drwxrwxr-x. 8 admin admin 4096 Jun 20 18:51 .git
-drwxrwxr-x. 2 admin admin   49 Jun 20 18:45 hello
--rw-rw-r--. 1 admin admin    0 Jun 20 18:52 text.txt
+Stuff
+pizza
+bear
+rabbit
