@@ -11,24 +11,27 @@ int main () {
 	//char d = a;
 	//char b = a;
 	//printf("False = %d \n", (d==b));	
-	boolean((3>2)); //true
-	boolean((3<2)); //false
-	boolean((3-(2+1))); //false
-	char d = d;	 
-	boolean('d'); 	//true
-	boolean((9%3));	//true
-	printf("'d' = %d\n", 'd');
-	boolean(((3>2)-1)); //false
+//	boolean((3>2)); //true
+//	boolean((3<2)); //false
+//	boolean((3-(2+1))); //false
+//	char d = d;	 
+//	boolean('d'); 	//true
+//	boolean((9%3));	//true
+//	printf("'d' = %d\n", 'd');
+//	boolean(((3>2)-1)); //false
+	int 1 = 0;	
+	for (
+		
+	)
 	return 0;
 }
-boolean(int x) {
-	if (x == 0) {
-		printf("False\n");	
-	}
-	else {
-		printf("True\n");
-	}
-
-}
+//boolean(int x) {
+//	if (x == 0) {
+//		printf("False\n");	
+//	}
+//	else {
+//		printf("True\n");
+//	}
+//}
 
 
