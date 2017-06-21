@@ -1,6 +1,13 @@
 #include <stdio.h>
 int main() {
+/* count of: 
+digits, 
+lower-case letters,
+other  
+
+*/
   // initialize variables;
+
  
   char c;
  
